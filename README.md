@@ -33,7 +33,3 @@ I'm always chasing the next fascinating technology. Right now, I'm diving deeper
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SivarajMarimuthu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivarajMarimuthu&layout=compact&theme=radical" alt="Top Languages" />
-</p>
