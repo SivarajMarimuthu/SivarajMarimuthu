@@ -12,7 +12,7 @@ I'm a dedicated developer who thrives on building end-to-end solutions, from rob
 | :--- | :--- | :--- |
 | **Full-Stack** | Node.js, Express, Databases (SQL/NoSQL), REST | Building scalable backends and efficient APIs. |
 | **Mobile Native** | 📱 Android Native (Java) | Crafting performant, high-quality mobile experiences. |
-| **Frontend** | , React, Angular] | Creating engaging and responsive user interfaces. |
+| **Frontend** |  React js, Angular | Creating engaging and responsive user interfaces. |
 | **Adaptability** | Learning New Technologies, Problem Solving | I embrace any interesting technology or tool required to ship a quality product. |
 
 ---
