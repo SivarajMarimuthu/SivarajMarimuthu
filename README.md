@@ -1,35 +1,76 @@
-# Hi there 👋 I'm Sivaraj Marimuthu
+# Hi, I'm Sivaraj Marimuthu 👋
 
-### 💻 Versatile Builder & Full-Stack Enthusiast
+### Software Engineer | Full-Stack, Backend and Cloud Development
 
-I'm a dedicated developer who thrives on building end-to-end solutions, from robust server architectures to polished user interfaces on the web and native mobile devices. I believe the best solution is determined by the problem, not a rigid framework.
+I build web applications, REST APIs, automation tools, and business software using Python, Node.js, React, Angular, relational databases, and AWS.
 
----
+My experience includes developing customer-facing applications, backend services, authentication systems, payment workflows, reporting dashboards, data-processing utilities, and production deployments.
 
-### 🚀 What I'm Good At
-
-| Domain | Key Skills | Focus |
-| :--- | :--- | :--- |
-| **Full-Stack** | Node.js, Express, PHP, Python, .NET, Databases (SQL/NoSQL), REST | Building scalable backends and efficient APIs. |
-| **Mobile Native** | 📱 Android Native (Java) | Crafting performant, high-quality mobile experiences. |
-| **Frontend** |  React js, Angular | Creating engaging and responsive user interfaces. |
-| **Adaptability** | Learning New Technologies, Problem Solving | I embrace any interesting technology or tool required to ship a quality product. |
+I enjoy solving practical business problems and working across the complete application stack—from database design and API development to frontend integration and cloud deployment.
 
 ---
 
-### ✨ Currently Exploring
+## 💻 Technical Skills
 
-I'm always chasing the next fascinating technology. Right now, I'm diving deeper into:
-
-- Flutter & Dart 
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | Python, Flask, Node.js, Express.js, PHP, CodeIgniter |
+| **Frontend** | React.js, Angular, AngularJS, JavaScript, HTML5, CSS3, Bootstrap |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **Cloud and Deployment** | AWS EC2, S3, RDS, IAM, Linux, Nginx, Gunicorn |
+| **API and Security** | REST APIs, JWT, RBAC, OTP Authentication, Google OAuth, Password Hashing |
+| **Payments** | Razorpay, Paytm, Payment Verification, Webhooks, Transaction Status Handling |
+| **Automation** | Python Scripts, Scheduled Reports, Data Processing, Email Automation, Cron Jobs |
+| **Development Tools** | Git, GitHub, Bitbucket, Jira, Linux, Basic CI/CD |
 
 ---
 
-### 💬 Connect with Me
+## 🚀 What I Work On
 
+- Full-stack web application development
+- REST API design and frontend integration
+- Authentication and role-based access
+- Payment gateway integration
+- Database design and data processing
+- Reporting dashboards and automation
+- AWS and Linux application deployment
+- Production support and technical troubleshooting
+- Client communication and technical coordination
 
-* **LinkedIn:** https://www.linkedin.com/in/sivarajmarimuthu
+---
 
+## 📱 Additional Development Experience
 
-<br>
+I also have experience building Android applications using Java, including floating overlay services, custom UI components, background services, and utility applications.
+
+---
+
+## 🌱 Current Focus
+
+- Strengthening cloud and DevOps practices
+- Building reusable Python and developer-automation tools
+- Improving software architecture and system-design skills
+- Creating public projects that demonstrate backend and full-stack engineering
+
+---
+
+## 🤝 Availability
+
+I am open to:
+
+- Full-time software engineering roles
+- Remote opportunities
+- Contract and freelance projects
+- Full-stack, backend, Python, Node.js, and technical-leadership-oriented positions
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/sivarajmarimuthu](https://www.linkedin.com/in/sivarajmarimuthu/)
+- **GitHub:** [github.com/SivarajMarimuthu](https://github.com/SivarajMarimuthu)
+
+---
+
+> Most of my professional projects were developed for companies and clients, so their source code is private. Public repositories on this profile focus on personal projects, developer tools, and technical demonstrations.
 
