@@ -69,7 +69,7 @@ I am open to:
 
 - **LinkedIn:** [linkedin.com/in/sivarajmarimuthu](https://www.linkedin.com/in/sivarajmarimuthu/)
 - **GitHub:** [github.com/SivarajMarimuthu](https://github.com/SivarajMarimuthu)
-- **Portfolio:**[Portfolio](https://www.sivarajmarimuthu.in/)
+- **Portfolio:**[Sivarajmarimuthu.in](https://www.sivarajmarimuthu.in/)
 
 ---
 
